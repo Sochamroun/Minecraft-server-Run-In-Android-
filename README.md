@@ -1,4 +1,14 @@
-# Minecraft-server-Run-In-Android
+# 🌿 Minecraft Server Run on Android
+* 📱 Requirements Android Device 
+* 🛠️ Installation
+* 🎮 Paper Server
+* 🎮 Vanilla Server
+* 🤖 Mineflayer Bot
+* ⚡ Server Optimization
+* 🌐 Tunnel / Playit.gg
+* ❓ Troubleshooting
+* 📞 Support 0883963489 🇰🇭
+
 [![✅ Termux](https://img.shields.io/badge/🥱-Termux_Download-blue?style=for-the-badge)](https://github.com/Sochamroun/Termux-EasySetup/releases/download/App/termux.apk)
 ## Update and upgrade Termux 
 ```bash
