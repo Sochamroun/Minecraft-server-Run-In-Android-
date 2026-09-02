@@ -4,7 +4,6 @@
 ```bash
 termux-setup-storage
 ```
----
 ```bash
 curl -sL https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/setup-small.sh | bash
 ```
