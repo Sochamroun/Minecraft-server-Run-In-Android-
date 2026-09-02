@@ -36,6 +36,11 @@ curl -sLO https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/van
 curl -sLO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/bot-setup-free.sh && chmod +x bot-setup-free.sh && bash bot-setup-free.sh && rm -rf bot-setup-free.sh
 ```
 ---
+## Python Check Server Online
+```bash
+curl -sLO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/check-mc.py
+```
+---
 <div align="center">
     <p><b> Prepared by Sochamroun </b></p>
     <p><b>If this project helps you, please give it a Stars ⭐</b></p>
