@@ -41,6 +41,16 @@ curl -#LO https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/van
 curl -#LO https://github.com/Sochamroun/Minecraft-server-Run-In-Android-/releases/download/paper-1.21.11-plugins/plugins.zip && unzip -o plugins.zip && rm -f plugins.zip
 ```
 ___
+## Playit-gg tunnel Minecraft server 
+* Free tunnel tcp server to public
+
+[![playit-gg](https://img.shields.io/badge/🎲-Playit_gg_Download-orange?style=for-the-badge)](https://playit.gg/download/linux)
+
+* playit-gg Plugins For papemc
+```bash
+curl -#LO https://github.com/playit-cloud/playit-minecraft-plugin/releases/latest/download/playit-minecraft-plugin.jar
+```
+---
 ## Bot mineflayer 
 * Script Install
 * Name ZinProMax Offline Account 
