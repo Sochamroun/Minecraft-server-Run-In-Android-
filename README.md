@@ -29,6 +29,11 @@ curl -sLO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/hea
 curl -sLO https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/vanilla-server.sh && chmod +x vanilla-server.sh
 ```
 ---
+* leaf Server 🌿
+
+[![🌿 Leaf](https://img.shields.io/badge/🌿-Leaf_Server_Download-green?style=for-the-badge)](https://www.leafmc.one/en/download/1.21.11)
+
+---
 ## Bot mineflayer 
 * Script Install
 * Name ZinProMax Offline Account 
