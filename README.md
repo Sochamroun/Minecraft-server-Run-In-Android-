@@ -29,14 +29,14 @@ curl -sLO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/hea
 curl -sLO https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/vanilla-server.sh && chmod +x vanilla-server.sh
 ```
 ---
-## Bot mineflayer
+## Bot mineflayer 
 * Script Install
 * Name ZinProMax Offline Account 
 ```bash
 curl -sLO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/bot-setup-free.sh && chmod +x bot-setup-free.sh && bash bot-setup-free.sh && rm -rf bot-setup-free.sh
 ```
 ---
-## Python Check Server Online
+## Python Check Server Online 🐍
 ```bash
 curl -sLO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/check-mc.py
 ```
