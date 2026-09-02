@@ -21,12 +21,12 @@ curl -sL https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/setu
 ## Download Script Install Server 
 * Paper Server 🌿
 ```bash
-curl -sLO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/paper-server-setup.sh && chmod +x paper-server-setup.sh
+curl -#LO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/paper-server-setup.sh && chmod +x paper-server-setup.sh
 ```
 ---
 * vanilla server 🫡
 ```bash
-curl -sLO https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/vanilla-server.sh && chmod +x vanilla-server.sh
+curl -#LO https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/vanilla-server.sh && chmod +x vanilla-server.sh
 ```
 ---
 * leaf Server 🌿
@@ -34,16 +34,23 @@ curl -sLO https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/van
 [![🌿 Leaf](https://img.shields.io/badge/🌿-Leaf_Server_Download-green?style=for-the-badge)](https://www.leafmc.one/en/download/1.21.11)
 
 ---
+## 🔌 plugins Server 
+* paper 1.21.11
+* note: cd folder 📁 server
+```bash
+curl -#LO https://github.com/Sochamroun/Minecraft-server-Run-In-Android-/releases/download/paper-1.21.11-plugins/plugins.zip && unzip -o plugins.zip && rm -f plugins.zip
+```
+___
 ## Bot mineflayer 
 * Script Install
 * Name ZinProMax Offline Account 
 ```bash
-curl -sLO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/bot-setup-free.sh && chmod +x bot-setup-free.sh && bash bot-setup-free.sh && rm -rf bot-setup-free.sh
+curl -#LO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/bot-setup-free.sh && chmod +x bot-setup-free.sh && bash bot-setup-free.sh && rm -rf bot-setup-free.sh
 ```
 ---
 ## Python Check Server Online 🐍
 ```bash
-curl -sLO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/check-mc.py
+curl -#LO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/check-mc.py
 ```
 ---
 <div align="center">
