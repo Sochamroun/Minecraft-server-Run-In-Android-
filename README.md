@@ -64,6 +64,9 @@ curl -#LO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/hea
 ```
 ---
 ## World challenge Free Download 🤫
+
+[![📁 curseforge](https://img.shields.io/badge/📁-curseforge-orange?style=for-the-badge)](https://www.curseforge.com/minecraft/search?class=worlds&page=1&pageSize=20&sortBy=relevancy) 
+
 * One Chunk challenge 
 ```bash
 curl -#LO https://github.com/Sochamroun/Minecraft-server-Run-on-Android/releases/download/One_Chunk_1.21%2B/one.block.1.21+.zip && unzip -o one.block.1.21+.zip && rm -f one.block.1.21+.zip
