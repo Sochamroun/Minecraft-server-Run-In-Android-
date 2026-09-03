@@ -63,6 +63,11 @@ curl -#LO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/hea
 curl -#LO https://raw.githubusercontent.com/Sochamroun/Termux-EasySetup/refs/heads/main/check-mc.py
 ```
 ---
+## World challenge Free Download 🤫
+* One Chunk challenge 
+```bash
+curl -#LO https://github.com/Sochamroun/Minecraft-server-Run-on-Android/releases/download/One_Chunk_1.21%2B/one.block.1.21+.zip && unzip -o one.block.1.21+.zip && rm -f one.block.1.21+.zip
+```
 <div align="center">
     <p><b> Prepared by Sochamroun </b></p>
     <p><b>If this project helps you, please give it a Stars ⭐</b></p>
