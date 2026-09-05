@@ -40,6 +40,10 @@ curl -#LO https://github.com/Sochamroun/Termux-EasySetup/raw/refs/heads/main/van
 ```bash
 curl -#LO https://github.com/Sochamroun/Minecraft-server-Run-In-Android-/releases/download/paper-1.21.11-plugins/plugins.zip && unzip -o plugins.zip && rm -f plugins.zip
 ```
+* AutoShutdown Plugins
+```bash
+curl -#LO https://github.com/Sochamroun/Minecraft-server-Run-on-Android/releases/download/AutoShutdown-server/AutoShutdown.zip && unzip -o AutoShutdown.zip && rm -rf AutoShutdown.zip
+```
 ___
 ## Playit-gg tunnel Minecraft server 
 * Free tunnel tcp server to public
